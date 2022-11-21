@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ali_Kalora">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ali_kalora" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:text="\n\n Ali Ahmad (bahasa Arab: علي أحمد‎), yang lebih dikenal dengan nama Ali Kalora (30 Mei 1981 – 18 September 2019) adalah seorang militan Islam Indonesia dan merupakan pemimpin Mujahidin Indonesia Timur (MIT) menggantikan Santoso. Ia diduga bersembunyi di hutan belantara di sekitar Kabupaten Poso dan Kabupaten Parigi Moutong, Sulawesi Tengah bersama dengan sisa kelompok MIT.
+
+Setelah Santoso tewas pada tanggal 18 Juli 2016, dirinya diduga menggantikan posisi Santoso sebagai pemimpin di kelompok MIT bersama dengan Basri.[1] Setelah Basri ditangkap oleh Satgas Tinombala, Kapolri Jenderal Pol. Tito Karnavian menetapkan Ali Kalora sebagai target utama dari Operasi Tinombala.[2] Ali Kalora tewas pada tanggal 18 September 2021, setelah melakukan kontak senjata dengan Satgas Operasi Madago Raya.[3]
+
+Kehidupan pribadi      "
+            android:paddingLeft="10dp"/>
+
+
+</RelativeLayout>

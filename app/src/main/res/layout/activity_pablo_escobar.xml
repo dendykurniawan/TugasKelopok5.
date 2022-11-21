@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ali_Kalora">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/pablo_escobar" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:text="Pablo Emilio Escobar Gaviria (1 Desember 1949 – 2 Desember 1993) adalah seorang gembong narkoba dan pengedar narkoba Kolombia. Kartelnya, pada puncak kariernya, menyediakan diperkirakan 80% dari kokain yang diselundupkan ke Amerika Serikat, memberikan pendapatan pribadi US $21,9 miliar setahun.[2][3] Sering disebut RajaKokain, dia adalah kriminal terkaya dalam sejarah, dengan kekayaan bersih yang diketahui diperkirakan US $30 miliar pada awal 1990-an,[4] membuatnya salah satu orang terkaya di dunia pada masa jayanya.[5][6]
+
+Escobar lahir di Rionegro, Kolombia, dan dibesarkan di Medellín di dekatnya. Setelah sempat belajar di Universidad Autónoma Latinoamericana di Medellín, ia keluar tanpa gelar dan mulai terlibat dalam kegiatan kriminal yang melibatkan menjual rokok selundupan, bersama dengan tiket lotre palsu, dan berpartisipasi dalam pencurian kendaraan bermotor. Pada 1970-an ia mulai bekerja untuk berbagai penyelundup barang ilegal, sering menculik dan menahan orang untuk tebusan sebelum mulai mendistribusikan bubuk kokain sendiri, serta membangun rute penyelundupan pertama ke Amerika Serikat, pada tahun 1975. Infiltrasinya ke pasar narkoba AS diperluas secara eksponensial karena meningkatnya permintaan untuk kokain dan, pada 1980-an, diperkirakan bahwa 70 sampai 80 ton kokain dikirimkan dari Kolumbia ke AS secara bulanan. Jaringan narkoba itu umumnya dikenal sebagai Kartel Medellín, yang sering bersaing dengan kartel saingan dalam negeri dan luar negeri, yang mengakibatkan banyak pembantaian dan kematian polisi, hakim, penduduk setempat dan politisi terkemuka.
+
+Pada tahun 1982, Escobar terpilih sebagai anggota alternatif dari Kamar Perwakilan Kolombia sebagai bagian dari Partai Liberal Kolombia. Melalui ini, dia bertanggung jawab untuk pembangunan banyak rumah sakit, sekolah, dan gereja-gereja di Kolombia barat, yang memberikannya popularitas dalam Gereja Katolik Roma lokal, serta dengan penduduk setempat dari kota-kota yang sering dikunjunginya. Namun, Escobar telah difitnah oleh pemerintah Kolombia dan Amerika Serikat, karena eksploitasi kekuasaan politiknya, yang mengakibatkan Kolombia menjadi ibu kota pembunuhan dunia.[7] Escobar ditembak dan dibunuh oleh Polisi Nasional Kolombia, di kampung halamannya, 24 jam setelah ulang tahun ke-44 nya.[8][9]."
+        android:paddingLeft="10dp"/>
+
+
+</RelativeLayout>

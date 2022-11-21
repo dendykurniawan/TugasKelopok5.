@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Narkoba">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="9dp"
+            android:text="\t\tDari kejadian-kejadian itu dapat dilihat bahwa tidak hanya kuantitas (jumlah) saja yang bertambah tapi juga kualitas kekejaman dan kesadisan juga meningkat. \n\nSenjata yang digunakan pun tidak tanggung-tanggung, dari senjata tajam hingga senjata api. Dari pisau sampai pistol. Dor!
+
+Pertanyaannya cuma dua; mengapa dan bagaimana.  Mengapa mereka melakukan kriminalitas? Bagaimana atau upaya apa yang dapat dilakukan untuk menyapih (mencegah) terjadinya tindakan kejahatan tersebut?.\n\n
+
+Sejauh ini belum ada sebuah penelitian akademis yang benar-benar dapat dijadikan pijakan pasti penyebab semakin meningkatnya tindakan kekerasan tersebut. Apa yang beredar di tengah masyarakat saat ini hanya sebatas pendapat dan asumsi-asumsi yang dikembangkan oleh masyarakat dan media. Asumsi paling kuat disebabkan oleh desakan ekonomi. Agaknya sangat perlu diperjelas. Kebutuhan ekonomi yang bagaimana yang membuat seseorang harus ‘tega’ melakukan kejahatan apa lagi sampai menghilangkan nyawa orang lain.
+
+Apakah karena tidak sanggup membeli kebutuhan sehari-hari seperti beras dan lauk pauk kemudian orang akan melakukan kriminalitas? Rasanya agak sulit diterima akal sehat jika orang merampok hanya benar-benar untuk mendapatkan sesuap nasi. \n\nMembunuh orang lain untuk mendapatkan beras. Maka jika begitu dapat diyakini bukan desakan ekonomi semacam ini yang terjadi. Bukan persoalan perut tapi cenderung gaya hidup."
+            android:textColor="@color/black"/>
+
+    </ScrollView>
+
+</RelativeLayout>

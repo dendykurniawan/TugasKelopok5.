@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas Kelopok5</string>
+    <string name="title">title</string>
+    <string name="nama_makanan">nama_makanan</string>
+    <array name="datapoto">
+        <item>@drawable/kasus</item>
+        <item>@drawable/santoso</item>
+        <item>@drawable/ali_kalora</item>
+        <item>@drawable/pablo_escobar</item>
+    </array>
+    <string-array name="data_name">
+        <item>Kasus</item>
+        <item>Santoso</item>
+        <item>Ali Kalora</item>
+        <item>Pablo Escobar</item>
+    </string-array>
+</resources>

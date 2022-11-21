@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ali_Kalora">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/santoso" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:text="Santoso, juga dikenal dengan nama Abu Wardah (21 Agustus 1976 – 18 Juli 2016), adalah seorang militan Islam asal Indonesia dan mantan pemimpin kelompok teroris Mujahidin Indonesia Timur (MIT). Sebelum kematiannya, dia merupakan sosok teroris yang paling dicari di Indonesia.[1]
+
+Di bawah kepemimpinannya, MIT telah bersumpah setia kepada Negara Islam Irak dan Syam (ISIS). Santoso bersama kelompoknya beroperasi di hutan belantara Kabupaten Poso dan Kabupaten Parigi Moutong, Sulawesi Tengah. Pada tanggal 18 Juli 2016, dirinya tewas dalam sebuah kontak tembak dengan para petugas Satgas Operasi Tinombala."
+        android:paddingLeft="10dp"/>
+
+
+</RelativeLayout>
